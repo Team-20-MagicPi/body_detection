@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/detect_main.dir/detect_main.cpp.o CMakeFiles/detect_main.dir/body_detect.cpp.o  -o detect_main -Wl,-rpath,/usr/local/lib /usr/local/lib/libwiringPi.so 
