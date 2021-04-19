@@ -1,3 +1,0 @@
-/home/pi/men_detection/CMakeFiles/rebuild_cache.dir
-/home/pi/men_detection/CMakeFiles/main.dir
-/home/pi/men_detection/CMakeFiles/edit_cache.dir
