@@ -1,11 +1,11 @@
 # body_detection
 In this programme we also use a infrared sensor to detect the body of the user standing in front of the magic mirror. And using it to control the screen on and off.
 
-This repository includes:
-1.Cmake files and Cmakelists.
-2.One .h files.
-3.Two cpp files including detect_main.cpp which is the main program.
-Cmakefiles may differ when they are applied to different systems or different devices.
+This repository includes:<br>
+1.Cmake files and Cmakelists.<br>
+2.One .h files.<br>
+3.Two cpp files including detect_main.cpp which is the main program.<br>
+Cmakefiles may differ when they are applied to different systems or different devices.<br>
 
 # Table of Content
   1.Program introduction
