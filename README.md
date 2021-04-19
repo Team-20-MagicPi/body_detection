@@ -29,6 +29,6 @@ http://wiringpi.com/download-and-install/
 `human_detection()` : screen control function.<br>
 3.In `detect_main.cpp` we run the main program.<br>
 # Maintainer
-@Touru97(https://github.com/Touru97)<br>
+@[Touru97](https://github.com/Touru97)<br>
 Discussion is welcome! Lots of things are here needed to be discussing with you guys!
 
