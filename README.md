@@ -3,8 +3,8 @@ In this programme we also use a infrared sensor to detect the body of the user s
 
 This repository includes:<br>
 1.Cmake files and Cmakelists.<br>
-2.One .h files.<br>
-3.Two cpp files including detect_main.cpp which is the main program.<br>
+2.One `.h` files.<br>
+3.Two `.cpp` files including `detect_main.cpp` which is the main program.<br>
 Cmakefiles may differ when they are applied to different systems or different devices.<br>
 
 # Table of Content
@@ -22,12 +22,12 @@ WiringPi is a PIN based GPIO access library written in C. It is pre-installed wi
 http://wiringpi.com/download-and-install/
 
 # Introduction to each file 
-1.In body_detect.h we define a body_detect class, it contains one public function:<br>
-human_detection() : screen control function.<br>
-2.In body_detect.cpp we define two functions:<br>
-SensorSetup() : basic gpio initialization.<br>
-human_detection() : screen control function.<br>
-3.In detect_main.cpp we run the main program.<br>
+1.In `body_detect.h` we define a body_detect class, it contains one public function:<br>
+`human_detection()` : screen control function.<br>
+2.In `body_detect.cpp` we define two functions:<br>
+`SensorSetup()` : basic gpio initialization.<br>
+`human_detection()` : screen control function.<br>
+3.In `detect_main.cpp` we run the main program.<br>
 # Maintainer
 @Touru97<br>
 Discussion is welcome! Lots of things are here needed to be discussing with you guys!
